@@ -1,6 +1,6 @@
 1- aynı kullanıcı eklenmeye çalışılırsa : <img width="389" alt="ayni kullanici eklenmeye calisilirsa 16 21 45" src="https://github.com/tgbaozkn/KodlamaIO-CSharpHomeworks/assets/39098806/dcb6cf48-631d-43e3-9f19-b6a7b40e954f">
 <img width="622" alt="ayni kullanici save " src="https://github.com/tgbaozkn/KodlamaIO-CSharpHomeworks/assets/39098806/e3843932-76ee-4cff-8c06-e9a71ae8419d">
-<br/>
+<hr/>
 
 2- update işleminde kontrol- o kişi listede var mı ? <img width="451" alt="controlling before updating" src="https://github.com/tgbaozkn/KodlamaIO-CSharpHomeworks/assets/39098806/cc3e5d23-bf94-4ea5-ab35-148bae4d51fa">
 <br/>
@@ -12,5 +12,5 @@
 
 <hr/>
 5- satın alma <img width="742" alt="satin alma islemi" src="https://github.com/tgbaozkn/KodlamaIO-CSharpHomeworks/assets/39098806/687a546a-64a3-42a9-bd6c-dd45b5cee153">
---
+<hr/>
 <img width="389" alt="Screenshot 2024-06-09 at 15 42 27" src="https://github.com/tgbaozkn/KodlamaIO-CSharpHomeworks/assets/39098806/fa891b27-ad1b-4bbf-8354-65d04cbea15b">
